@@ -15,6 +15,6 @@ Gosto de aprender novas linguagens, criar projetos práticos e explorar formas d
 ## Contato 📞
 <div> 
   <a href="https://www.instagram.com/mart1ns_gui?igsh=anNhMmN2NG54ZWw3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@guilhermeoliveiramartins164"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
